@@ -1,4 +1,4 @@
-## EXAM ASSIGNMENT "Multimedia languages"
+## EXAM ASSIGNMENTS "Multimedia languages"
 
 Tutorial 1 (step-by-step)
 <br />
